@@ -1,8 +1,6 @@
 #!/usr/bin/python
 """
-     $Id: backup_vm.py 983 2013-10-03 16:40:58Z tbr $
-
-  This script copies a virtual machine to a Serverpool.
+    This script copies a virtual machine to a Serverpool.
   As long as the target is the same Repository like the source the 'clone vm'  
   in sshcli is much easier to use!
   The script creates a new virtual machine with same configuration as the 
